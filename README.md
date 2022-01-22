@@ -1,4 +1,7 @@
-# flare-emu 教程
+# IDA flare-emu 教程
+
+
+该 repo 包含博客文章 "IDA flare-emu 教程" [1] 中提到的测试程序与脚本源码:
 
 
 - 模拟执行 IDA 中的函数 [emu_execute_function.py](./emu_execute_function.py) 
@@ -7,3 +10,5 @@
 - 测试程序源码 [fake_virus_decrypt_in_mem.cpp ](./fake_virus_decrypt_in_mem.cpp )
 
 
+----
+[1] https://b1tg.github.io/post/flare-emu-tutorial/ IDA flare-emu 教程
